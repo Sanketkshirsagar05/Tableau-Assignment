@@ -9,6 +9,4 @@ This repository contains a series of Tableau assignments designed to demonstrate
 
 ## Contact
 
-For any queries or feedback, reach out to **Sanket Kshirsagar**.
-
-- GitHub: [Sanket Kshirsagar](https://github.com/Sanketkshirsagar05)
+For any queries or feedback, reach out to [Sanket Kshirsagar](https://github.com/Sanketkshirsagar05)
